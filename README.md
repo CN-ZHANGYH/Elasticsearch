@@ -22,7 +22,7 @@
 
 ## Kibana
 
-**Kibana官网：**https://www.elastic.co/guide/en/kibana/current/introduction.html
+**Kibana官网：** https://www.elastic.co/guide/en/kibana/current/introduction.html
 
 ![image-20220807221933336](https://raw.githubusercontent.com/isicman/image/main/img/image-20220807221933336.png)
 
